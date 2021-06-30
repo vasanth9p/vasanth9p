@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning ,deep learning and computer vision
 - 💞️ I’m looking to collaborate on ml, dl and cv projects. 
 - I'm currently working on :
-1. UGV agriculture solution (using yolo model).
+1. UGV agriculture solution .
 2. Engine fault prediction system.
 3. cement strength prediction.
 - 📫 How to reach me
