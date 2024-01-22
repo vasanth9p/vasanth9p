@@ -1,4 +1,3 @@
--# vasanth
 
 ## 👋 Introduction
 Hello there! I'm vasanth kumar, a Data scientist based in bangalore. Welcome to my GitHub profile! I'm passionate about Computer Vision,NLP and Gen-AI.
